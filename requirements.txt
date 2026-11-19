@@ -1,0 +1,6 @@
+streamlit>=1.40
+ollama>=0.6
+python-dotenv>=1.0
+
+# macOS 26+ only (Apple Intelligence); skip this line on other platforms.
+apple-fm-sdk>=0.2.2; sys_platform == "darwin"
