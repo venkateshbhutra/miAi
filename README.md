@@ -1,4 +1,4 @@
-# MiAi
+# miAi (My Intelligent Assistant Interface)
 
 ## What it is
 
